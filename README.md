@@ -1,5 +1,4 @@
-# hyperion
-# Project Sentinel: Intelligence Layer Prototype
+# Hyperion
 
 ## Overview
 This project is an experiment to build a simple AI in C#. 
